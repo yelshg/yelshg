@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yelsh
-- 👀 I’m interested in data analytics; the exploration, visualization and analysis of business data
+- 👀 I’m interested in data analytics; extracting insoghts from data.
 - 🌱 I’m currently learning SQL & Tableau and furthering my understanding of R. 
 - 💞️ I’m looking to collaborate on data projects
 - 📫 You can reach me on Twitter @YelshTweets 
