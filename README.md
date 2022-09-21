@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yelsh
-- 👀 I’m interested in data analytics; extracting insights from data.
-- 🌱 I’m currently learning SQL & Tableau and furthering my understanding of R. 
-- 💞️ I’m looking to collaborate on data projects
-- 📫 You can reach me on Twitter @YelshTweets 
+- 👀 I primarily do investment analysis and regression analysis. 
+- 🌱 Sometimes, I host my projects here on GitHub. 
+- 💞️ I’m looking to collaborate on data projects or generally talk about finance and data. 
+- 📫 You can reach me on discord at Yelsh #7443 or Telegram @yelsh_gram
 
 <!---
 yelshg/yelshg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
