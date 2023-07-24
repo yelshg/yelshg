@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yelsh
-- 👀 I primarily do investment analysis. 
+- 👀 I primarily interested in investment banking. 
 - 🌱 Sometimes, I host my projects here on GitHub. 
 - 💞️ I’m looking to collaborate on data projects or generally talk about finance and data. 
 - 📫 You can reach me on discord at Yelsh #7443 or Telegram @yelsh_gram
